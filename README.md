@@ -1,1 +1,1 @@
-# swift-exercises
+# Swift exercises
